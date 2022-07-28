@@ -1,0 +1,31 @@
+Leetcode Profile
+=====================
+https://leetcode.com/simranvolunesia/
+
+EASY
+=====================
+(01) https://leetcode.com/problems/search-insert-position/
+(02) https://leetcode.com/problems/sqrtx/
+(03) https://leetcode.com/problems/missing-number/
+(04) https://leetcode.com/problems/first-bad-version/
+(05) https://leetcode.com/problems/valid-perfect-square/
+(06) https://leetcode.com/problems/guess-number-higher-or-lower/
+(07) https://leetcode.com/problems/arranging-coins/
+(08) https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+(09) https://leetcode.com/problems/binary-search/
+(10) https://leetcode.com/problems/check-if-n-and-its-double-exist/
+
+Questions to revisit
+=====================
+EASY
+------
+(01) https://leetcode.com/problems/missing-number/
+     See formula
+
+(02) https://leetcode.com/problems/arranging-coins/
+	  See formula
+
+(03) https://leetcode.com/problems/check-if-n-and-its-double-exist/
+	  Try with two approaches
+	  1. Binary Search
+	  2. Using unordered set
